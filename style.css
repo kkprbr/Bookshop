@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.popularbook-background{
+    background-color: #1b1b1b;
+    width: 450px;
+    background-position: center;
+}
+.main-heading{
+    color: white;
+    font-family: Bree Serif;
+    margin-left: 30px;
+}
+.top-book-container{
+    background-color: #bbcbce;
+    width: 390px;
+    margin-left: 30px;
+    border-radius: 8px;
+    height: 170px;
+    font-family: Bree Serif;
+}
+.top-book-image{
+    height: 170px;
+    
+}
+.top-book-heading{
+    color: #587485;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.top-book-paragraph{
+    color: #1b1b1b;
+    margin-left: 15px;
+}
+.top-book-paragraph1{
+    color: #6f6f6f;
+    margin-left: 15px;
+}
+.top-book-button{
+    width: 98px;
+    padding: 7px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-width: 0px;
+    border-radius: 8px;
+    background-color: #517fe4;
+    color: white;
+}
+.middle-heading{
+    color: #ffffff;
+    margin-top: 22px;
+    margin-left: 15px;
+    font-family: Bree Serif;
+}
+.middle-image{
+    margin-left: 15px;
+    height: 150px;
+}
+.middle-book-paragraph{
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-family: Bree Serif;
+}
+.middle-book-button{
+    width: 98px;
+    padding: 7px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-width: 0px;
+    border-radius: 8px;
+    background-color: #517fe4;
+    color: white;
+}
+.bottom-heading{
+    color: #ffffff;
+    margin-top: 16px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    font-family: Bree Serif;
+}
+.bottom-image{
+    margin-left: 15px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.bottom-book-paragraph{
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-family: Bree Serif;
+}
+.bottom-book-button{
+    width: 98px;
+    padding: 7px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-width: 0px;
+    border-radius: 8px;
+    background-color: #517fe4;
+    color: white;
+}
+.book-details-page{
+    background-color: #1b1b1b;
+    width: 450px;
+    background-position: center;
+}
+.book-details-page-image{
+    height: 250px;
+    margin-left: 29%;
+    margin-top: 18px;
+}
+.book-name{
+    color: #ffffff;
+    text-align: center;
+    font-family: Bree Serif;
+    margin-top: 12px;
+    font-size: 28px;
+    margin-left: 340x;
+}
+.author{
+    color: white;
+    text-align: center;
+    font-family: Bree Serif;
+}
+.book-description{
+    color: white;
+    margin-left: 17px;
+    font-family: Bree Serif;
+}
+.button {
+   margin: 30px;
+}
